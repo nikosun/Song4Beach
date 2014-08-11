@@ -5,3 +5,4 @@ Song4Beach
  - Designed for a single site.
  - Based on "Twenty-Twelve" theme.
  - Simple and clean code.
+(This README file is not fixed yet.)
